@@ -1,0 +1,1 @@
+# in this file I will starting coding somthing using AI
